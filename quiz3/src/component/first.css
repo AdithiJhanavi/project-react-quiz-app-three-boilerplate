@@ -1,0 +1,153 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    background-color: #b9b4da;
+  }
+  .main {
+    text-align: center;
+    margin-top: 300px;
+  }
+  
+  .heading {
+    text-align: center;
+    color: white;
+    margin: 10px;
+    font-weight: bolder;
+    margin-left: 440px;
+  }
+  
+  .bt {
+    color: white;
+    font-weight: lighter;
+    background-color: rgb(82, 255, 47);
+    width: 200px;
+    height: 40px;
+    border-radius: 100px;
+  
+    margin-left: 440px;
+  }
+ 
+  .question {
+    background-color: #f8f8f8;
+    border-left: 5px solid rgb(159, 159, 245);
+    width: 80%;
+    height: 450px;
+   margin-left: 340px;
+    padding: 1.5rem 2rem;
+    padding: 10px;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    text-align: center;
+    font-weight: lighter;
+  }
+  
+  h5 {
+    font-size: 1.2rem;
+    margin-bottom: 5rem;
+    text-align: center;
+    font-weight: lighter;
+  }
+  
+  .container {
+    display: inline-block;
+    width: 50%;
+  }
+  
+  .option {
+    background-color: #1da1f2;
+    border-radius: 30px;
+    color: #fff;
+    cursor: pointer;
+    margin: 1.5rem auto;
+    padding: 10px;
+    transition: 0.3s linear all;
+    text-align: center;
+    width: 90%;
+  }
+  
+  .button {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto 1.5rem auto;
+    padding: 2rem;
+    width: 80%;
+  }
+  
+  .button button {
+    border: none;
+    cursor: pointer;
+    margin-right: 2rem;
+    padding: 0.5rem 1.5rem;
+  }
+  
+  .previous {
+    background-color: #3d7eaa;
+  }
+  
+  .next {
+    background-color: green;
+  }
+  
+  .quit {
+    background-color: red;
+  }
+  
+  
+  .result {
+    text-align: center;
+  }
+  
+  h1 {
+    color: green;
+  }
+  .score {
+    color: blue;
+  }
+  .score1 {
+    background-color: #f8f8f8;
+    border-left: 5px solid rgb(134, 134, 243);
+    width: 60%;
+    height: 350px;
+    margin: 1.5rem auto 0 auto;
+    padding: 20px;
+    margin-left: 340px;
+  }
+  
+  .s1 {
+    display: flex;
+    justify-content: space-between;
+    gap: 0rem;
+  }
+  
+  .detail {
+    text-align: left;
+  }
+  
+  .buttons {
+    margin: 30px;
+  }
+  
+  .play {
+    border-color: rgb(118, 118, 214);
+    color: rgb(118, 118, 214);
+    margin-right: 30px;
+    width: 10%;
+    padding: 10px;
+  }
+  
+  .home-result {
+    border-color: green;
+    color: green;
+    width: 10%;
+    padding: 10px;
+  }
+  #score-text {
+    margin-bottom: 20px;
+    padding: 10px;
+  }

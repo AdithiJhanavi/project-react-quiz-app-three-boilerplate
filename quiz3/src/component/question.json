@@ -1,0 +1,123 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "optionA": "Berlin",
+      "optionB": "Paris",
+      "optionC": "London",
+      "optionD": "Rome",
+      "answer": "Paris"
+    },
+    {
+      "question": "Who is the author of 'To Kill a Mockingbird'?",
+      "optionA": "Harper Lee",
+      "optionB": "F. Scott Fitzgerald",
+      "optionC": "Ernest Hemingway",
+      "optionD": "Mark Twain",
+      "answer": "Harper Lee"
+    },
+    {
+      "question": "What did the crocodile swallow in Peter Pan?",
+      "optionA": "A Book",
+      "optionB": "A Computer",
+      "optionC": "A pair of shoes",
+      "optionD": "An Alarm Clock",
+      "answer": "An Alarm Clock"
+    },
+    {
+      "question": "Which is the only mammal that can’t jump?",
+      "optionA": "Dog",
+      "optionB": "Elephant",
+      "optionC": "Goat",
+      "optionD": "Lion",
+      "answer": "Elephant"
+    },
+    {
+      "question": "Who lived at 221B, Baker Street, London?",
+      "optionA": "Tony Stark",
+      "optionB": "Morgan Freeman",
+      "optionC": "Sherlock Holmes",
+      "optionD": "Samuel L. Jackson",
+      "answer": "Sherlock Holmes"
+    },
+    {
+      "question": "What colour is a panda?",
+      "optionA": "Green and Yellow",
+      "optionB": "Blue and Red",
+      "optionC": "Green and White",
+      "optionD": "Black and White",
+      "answer": "Black and White"
+    },
+    {
+      "question": "Where is the smallest bone in the human body?",
+      "optionA": "The Chest",
+      "optionB": "The Ear",
+      "optionC": "The Legs",
+      "optionD": "The Hands",
+      "answer": "The Ear"
+    },
+    {
+      "question": "What does the roman numeral C represent?",
+      "optionA": "100",
+      "optionB": "10",
+      "optionC": "10,000",
+      "optionD": "1,000,000",
+      "answer": "100"
+    },
+    {
+      "question": "What takes place in Hong Kong's Happy Valley?",
+      "optionA": "Chicken Wrestling",
+      "optionB": "Horse racing",
+      "optionC": "Street Racing",
+      "optionD": "Arm Wrestling",
+      "answer": "Horse racing"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "optionA": "Alexander Graham Bell",
+      "optionB": "Sir Isaac Newton",
+      "optionC": "Leonardo Da Vinci",
+      "optionD": "Albert Einstein",
+      "answer": "Leonardo Da Vinci"
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "optionA": "Elephant",
+      "optionB": "Blue Whale",
+      "optionC": "Giraffe",
+      "optionD": "Hippopotamus",
+      "answer": "Blue Whale"
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "optionA": "China",
+      "optionB": "India",
+      "optionC": "Japan",
+      "optionD": "South Korea",
+      "answer": "Japan"
+    },
+    {
+      "question": "Who wrote the famous novel '1984'?",
+      "optionA": "George Orwell",
+      "optionB": "Aldous Huxley",
+      "optionC": "J.D. Salinger",
+      "optionD": "Ray Bradbury",
+      "answer": "George Orwell"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "optionA": "H2O2",
+      "optionB": "CO2",
+      "optionC": "H2O",
+      "optionD": "H2SO4",
+      "answer": "H2O"
+    },
+    {
+      "question": "Which planet is known as the 'Red Planet'?",
+      "optionA": "Jupiter",
+      "optionB": "Saturn",
+      "optionC": "Mars",
+      "optionD": "Venus",
+      "answer": "Mars"
+    }
+  ]
+  
